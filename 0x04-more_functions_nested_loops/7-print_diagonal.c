@@ -7,7 +7,7 @@
 *Description:prints 1-100 except mult. of 3 and 5
 *
 */
-int fizz_buzz(void)
+void fizz_buzz(void)
 {
 int i;
 for (i = 1; i <= 100; i++)
