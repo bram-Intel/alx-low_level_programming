@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
 * print_number - converts an integer into a string
 * @n: integer passed from main
