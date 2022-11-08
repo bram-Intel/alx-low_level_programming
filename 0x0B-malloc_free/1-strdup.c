@@ -19,7 +19,7 @@ if (strnew != NULL)
 {
 for (i = 0; str[i] != '\0'; i++)
 strnew[i] = str[i];
-}else
+} else
 {
 return (NULL);
 }
