@@ -51,7 +51,9 @@ return (1);
 }
 i = atoi(argv[1]);
 if (i < 0)
+{
 printf("0\n");
+}
 else
 {
 coin = coinConverter(i);
